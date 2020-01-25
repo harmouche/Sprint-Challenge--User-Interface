@@ -195,3 +195,13 @@ header img {
     .middle-content .boxes .box:nth-child(10){
         background-color: dodgerblue;
     }
+
+    /* Above Page CSS */
+
+    .above1 {
+        box-sizing: border-box;
+        /* background: red; */
+        margin-bottom: 20px;
+        border-bottom: 2px dashed black;
+        padding: 20px;
+    }
